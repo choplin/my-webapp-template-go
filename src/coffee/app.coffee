@@ -1,0 +1,2 @@
+say = (name) ->
+    print name
